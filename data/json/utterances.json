@@ -7075,5 +7075,621 @@
 		"timestamp" : "2021-11-26 14:28:16",
 		"intent" : "confirm_yes",
 		"confidence" : 0.94
+	},
+	{
+		"sender_id" : "d6cccec6908a8995c1f219cd19936d0bdb9c9872",
+		"utterance_id" : 9619,
+		"timestamp" : "2021-11-26 23:49:24",
+		"intent" : "set_name",
+		"confidence" : 0.95
+	},
+	{
+		"sender_id" : "d6cccec6908a8995c1f219cd19936d0bdb9c9872",
+		"utterance_id" : 9620,
+		"timestamp" : "2021-11-26 23:49:34",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "d6cccec6908a8995c1f219cd19936d0bdb9c9872",
+		"utterance_id" : 9621,
+		"timestamp" : "2021-11-26 23:49:42",
+		"intent" : "set_address",
+		"confidence" : 0.77
+	},
+	{
+		"sender_id" : "d6cccec6908a8995c1f219cd19936d0bdb9c9872",
+		"utterance_id" : 9622,
+		"timestamp" : "2021-11-26 23:49:55",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "d6cccec6908a8995c1f219cd19936d0bdb9c9872",
+		"utterance_id" : 9623,
+		"timestamp" : "2021-11-26 23:50:01",
+		"intent" : "set_time",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "d6cccec6908a8995c1f219cd19936d0bdb9c9872",
+		"utterance_id" : 9624,
+		"timestamp" : "2021-11-26 23:50:08",
+		"intent" : "set_name",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "d6cccec6908a8995c1f219cd19936d0bdb9c9872",
+		"utterance_id" : 9625,
+		"timestamp" : "2021-11-26 23:50:16",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "d6cccec6908a8995c1f219cd19936d0bdb9c9872",
+		"utterance_id" : 9626,
+		"timestamp" : "2021-11-26 23:50:31",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "26e78784635a0387ce3745d9be5b1f8170089fe7",
+		"utterance_id" : 9627,
+		"timestamp" : "2021-11-27 00:06:31",
+		"intent" : "set_address",
+		"confidence" : 0.94
+	},
+	{
+		"sender_id" : "e0f4d73e57e63c16f119336113f7b2057c4114a3",
+		"utterance_id" : 9651,
+		"timestamp" : "2021-11-27 14:05:51",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "e0f4d73e57e63c16f119336113f7b2057c4114a3",
+		"utterance_id" : 9652,
+		"timestamp" : "2021-11-27 14:06:00",
+		"intent" : "set_address",
+		"confidence" : 0.98
+	},
+	{
+		"sender_id" : "e0f4d73e57e63c16f119336113f7b2057c4114a3",
+		"utterance_id" : 9653,
+		"timestamp" : "2021-11-27 14:06:12",
+		"intent" : "confirm_yes",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "e0f4d73e57e63c16f119336113f7b2057c4114a3",
+		"utterance_id" : 9654,
+		"timestamp" : "2021-11-27 14:06:18",
+		"intent" : "set_time",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "e0f4d73e57e63c16f119336113f7b2057c4114a3",
+		"utterance_id" : 9655,
+		"timestamp" : "2021-11-27 14:06:26",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "e0f4d73e57e63c16f119336113f7b2057c4114a3",
+		"utterance_id" : 9656,
+		"timestamp" : "2021-11-27 14:06:44",
+		"intent" : "confirm_yes",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "ae6eb160c8b909a1245f089c5b206acf79da0f89",
+		"utterance_id" : 9657,
+		"timestamp" : "2021-11-27 23:54:44",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "ae6eb160c8b909a1245f089c5b206acf79da0f89",
+		"utterance_id" : 9658,
+		"timestamp" : "2021-11-27 23:54:50",
+		"intent" : "again",
+		"confidence" : 0.94
+	},
+	{
+		"sender_id" : "a6a0f0a68822b5c45fcc324ed99ed0c4f2db8163",
+		"utterance_id" : 9659,
+		"timestamp" : "2021-11-27 23:55:17",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "a6a0f0a68822b5c45fcc324ed99ed0c4f2db8163",
+		"utterance_id" : 9660,
+		"timestamp" : "2021-11-27 23:55:27",
+		"intent" : "order",
+		"confidence" : 0.72
+	},
+	{
+		"sender_id" : "a6a0f0a68822b5c45fcc324ed99ed0c4f2db8163",
+		"utterance_id" : 9661,
+		"timestamp" : "2021-11-27 23:55:34",
+		"intent" : "set_address",
+		"confidence" : 0.98
+	},
+	{
+		"sender_id" : "a6a0f0a68822b5c45fcc324ed99ed0c4f2db8163",
+		"utterance_id" : 9662,
+		"timestamp" : "2021-11-27 23:55:45",
+		"intent" : "set_address",
+		"confidence" : 0.98
+	},
+	{
+		"sender_id" : "be9a18b414467607276dc8ec076fe4451a948d62",
+		"utterance_id" : 9663,
+		"timestamp" : "2021-11-27 23:56:33",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "be9a18b414467607276dc8ec076fe4451a948d62",
+		"utterance_id" : 9664,
+		"timestamp" : "2021-11-27 23:56:42",
+		"intent" : "set_name",
+		"confidence" : 0.53
+	},
+	{
+		"sender_id" : "0ff983a2f604fa043daefe9b273a9ceb35f57bcd",
+		"utterance_id" : 9665,
+		"timestamp" : "2021-11-27 23:57:26",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "0ff983a2f604fa043daefe9b273a9ceb35f57bcd",
+		"utterance_id" : 9666,
+		"timestamp" : "2021-11-27 23:57:33",
+		"intent" : "set_address",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "0ff983a2f604fa043daefe9b273a9ceb35f57bcd",
+		"utterance_id" : 9667,
+		"timestamp" : "2021-11-27 23:57:43",
+		"intent" : "set_address",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9668,
+		"timestamp" : "2021-11-27 23:58:47",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9669,
+		"timestamp" : "2021-11-27 23:58:54",
+		"intent" : "set_address",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9670,
+		"timestamp" : "2021-11-27 23:59:03",
+		"intent" : "set_address",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9671,
+		"timestamp" : "2021-11-27 23:59:14",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9672,
+		"timestamp" : "2021-11-27 23:59:24",
+		"intent" : "set_time",
+		"confidence" : 0.98
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9673,
+		"timestamp" : "2021-11-27 23:59:30",
+		"intent" : "set_name",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9674,
+		"timestamp" : "2021-11-27 23:59:38",
+		"intent" : "confirm_yes",
+		"confidence" : 0.88
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9675,
+		"timestamp" : "2021-11-27 23:59:56",
+		"intent" : "set_name",
+		"confidence" : 0.65
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9676,
+		"timestamp" : "2021-11-28 00:00:18",
+		"intent" : "set_address",
+		"confidence" : 0.91
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9677,
+		"timestamp" : "2021-11-28 00:00:30",
+		"intent" : "set_address",
+		"confidence" : 0.98
+	},
+	{
+		"sender_id" : "1bbf40e71863c26b680fa2f12384fabc858c89b5",
+		"utterance_id" : 9678,
+		"timestamp" : "2021-11-28 00:00:47",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "a33688953cf438007723f5151b9b07704091a511",
+		"utterance_id" : 9679,
+		"timestamp" : "2021-11-28 00:24:46",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "a33688953cf438007723f5151b9b07704091a511",
+		"utterance_id" : 9680,
+		"timestamp" : "2021-11-28 00:24:53",
+		"intent" : "set_address",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "a33688953cf438007723f5151b9b07704091a511",
+		"utterance_id" : 9681,
+		"timestamp" : "2021-11-28 00:25:04",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "a33688953cf438007723f5151b9b07704091a511",
+		"utterance_id" : 9682,
+		"timestamp" : "2021-11-28 00:25:09",
+		"intent" : "set_time",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "a33688953cf438007723f5151b9b07704091a511",
+		"utterance_id" : 9683,
+		"timestamp" : "2021-11-28 00:25:16",
+		"intent" : "set_name",
+		"confidence" : 0.95
+	},
+	{
+		"sender_id" : "a33688953cf438007723f5151b9b07704091a511",
+		"utterance_id" : 9684,
+		"timestamp" : "2021-11-28 00:25:24",
+		"intent" : "confirm_no",
+		"confidence" : 0.92
+	},
+	{
+		"sender_id" : "a33688953cf438007723f5151b9b07704091a511",
+		"utterance_id" : 9685,
+		"timestamp" : "2021-11-28 00:25:30",
+		"intent" : "confirm_yes",
+		"confidence" : 0.81
+	},
+	{
+		"sender_id" : "e55cafede0d46d179127e4e7e97454483975b338",
+		"utterance_id" : 9686,
+		"timestamp" : "2021-11-28 00:55:17",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "e55cafede0d46d179127e4e7e97454483975b338",
+		"utterance_id" : 9687,
+		"timestamp" : "2021-11-28 00:55:25",
+		"intent" : "set_time",
+		"confidence" : 0.95
+	},
+	{
+		"sender_id" : "cb6c51aa46d40eef03fa41ac05fc7917c94a2e93",
+		"utterance_id" : 9688,
+		"timestamp" : "2021-11-28 00:57:09",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "cb6c51aa46d40eef03fa41ac05fc7917c94a2e93",
+		"utterance_id" : 9689,
+		"timestamp" : "2021-11-28 00:57:16",
+		"intent" : "set_name",
+		"confidence" : 0.95
+	},
+	{
+		"sender_id" : "cb6c51aa46d40eef03fa41ac05fc7917c94a2e93",
+		"utterance_id" : 9690,
+		"timestamp" : "2021-11-28 00:57:33",
+		"intent" : "set_time",
+		"confidence" : 0.76
+	},
+	{
+		"sender_id" : "cb6c51aa46d40eef03fa41ac05fc7917c94a2e93",
+		"utterance_id" : 9691,
+		"timestamp" : "2021-11-28 00:57:45",
+		"intent" : "confirm_no",
+		"confidence" : 0.92
+	},
+	{
+		"sender_id" : "cb6c51aa46d40eef03fa41ac05fc7917c94a2e93",
+		"utterance_id" : 9692,
+		"timestamp" : "2021-11-28 00:57:53",
+		"intent" : "set_address",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "cb6c51aa46d40eef03fa41ac05fc7917c94a2e93",
+		"utterance_id" : 9693,
+		"timestamp" : "2021-11-28 00:58:03",
+		"intent" : "confirm_no",
+		"confidence" : 0.92
+	},
+	{
+		"sender_id" : "1e4aff81614a71953aeb35e6e450b63a87ed85e8",
+		"utterance_id" : 9694,
+		"timestamp" : "2021-11-28 11:05:01",
+		"intent" : "order",
+		"confidence" : 0.92
+	},
+	{
+		"sender_id" : "18d89e0d8a083acfb87d6177a78165174729a0dd",
+		"utterance_id" : 9695,
+		"timestamp" : "2021-11-28 15:34:13",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "18d89e0d8a083acfb87d6177a78165174729a0dd",
+		"utterance_id" : 9696,
+		"timestamp" : "2021-11-28 15:34:26",
+		"intent" : "set_address",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "18d89e0d8a083acfb87d6177a78165174729a0dd",
+		"utterance_id" : 9697,
+		"timestamp" : "2021-11-28 15:34:36",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "18d89e0d8a083acfb87d6177a78165174729a0dd",
+		"utterance_id" : 9698,
+		"timestamp" : "2021-11-28 15:34:43",
+		"intent" : "set_time",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "18d89e0d8a083acfb87d6177a78165174729a0dd",
+		"utterance_id" : 9699,
+		"timestamp" : "2021-11-28 15:34:50",
+		"intent" : "set_name",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "18d89e0d8a083acfb87d6177a78165174729a0dd",
+		"utterance_id" : 9700,
+		"timestamp" : "2021-11-28 15:34:59",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "18d89e0d8a083acfb87d6177a78165174729a0dd",
+		"utterance_id" : 9701,
+		"timestamp" : "2021-11-28 15:35:13",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "aaf55b5f61d80bae99a9666e13a4b4607bb00e62",
+		"utterance_id" : 9702,
+		"timestamp" : "2021-11-28 20:34:36",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "aaf55b5f61d80bae99a9666e13a4b4607bb00e62",
+		"utterance_id" : 9703,
+		"timestamp" : "2021-11-28 20:34:44",
+		"intent" : "set_address",
+		"confidence" : 0.77
+	},
+	{
+		"sender_id" : "aaf55b5f61d80bae99a9666e13a4b4607bb00e62",
+		"utterance_id" : 9704,
+		"timestamp" : "2021-11-28 20:34:55",
+		"intent" : null,
+		"confidence" : 0.00
+	},
+	{
+		"sender_id" : "aaf55b5f61d80bae99a9666e13a4b4607bb00e62",
+		"utterance_id" : 9705,
+		"timestamp" : "2021-11-28 20:35:06",
+		"intent" : "confirm_yes",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "e1b966ce3a0d20150cebeac8f20a871ba13f52df",
+		"utterance_id" : 9706,
+		"timestamp" : "2021-11-29 07:45:24",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "e1b966ce3a0d20150cebeac8f20a871ba13f52df",
+		"utterance_id" : 9707,
+		"timestamp" : "2021-11-29 07:45:32",
+		"intent" : "set_name",
+		"confidence" : 0.83
+	},
+	{
+		"sender_id" : "e1b966ce3a0d20150cebeac8f20a871ba13f52df",
+		"utterance_id" : 9708,
+		"timestamp" : "2021-11-29 07:45:44",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "e1b966ce3a0d20150cebeac8f20a871ba13f52df",
+		"utterance_id" : 9709,
+		"timestamp" : "2021-11-29 07:45:49",
+		"intent" : "set_time",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "e1b966ce3a0d20150cebeac8f20a871ba13f52df",
+		"utterance_id" : 9710,
+		"timestamp" : "2021-11-29 07:45:56",
+		"intent" : "set_name",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "e1b966ce3a0d20150cebeac8f20a871ba13f52df",
+		"utterance_id" : 9711,
+		"timestamp" : "2021-11-29 07:46:05",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "e1b966ce3a0d20150cebeac8f20a871ba13f52df",
+		"utterance_id" : 9712,
+		"timestamp" : "2021-11-29 07:46:20",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "3e151f0601cda91767b6fb7094ff78f6fb61a313",
+		"utterance_id" : 9713,
+		"timestamp" : "2021-11-29 08:11:04",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "3e151f0601cda91767b6fb7094ff78f6fb61a313",
+		"utterance_id" : 9714,
+		"timestamp" : "2021-11-29 08:11:13",
+		"intent" : "set_address",
+		"confidence" : 0.98
+	},
+	{
+		"sender_id" : "3e151f0601cda91767b6fb7094ff78f6fb61a313",
+		"utterance_id" : 9715,
+		"timestamp" : "2021-11-29 08:11:25",
+		"intent" : "confirm_yes",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "3e151f0601cda91767b6fb7094ff78f6fb61a313",
+		"utterance_id" : 9716,
+		"timestamp" : "2021-11-29 08:11:33",
+		"intent" : "set_time",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "3e151f0601cda91767b6fb7094ff78f6fb61a313",
+		"utterance_id" : 9717,
+		"timestamp" : "2021-11-29 08:11:40",
+		"intent" : "set_name",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "3e151f0601cda91767b6fb7094ff78f6fb61a313",
+		"utterance_id" : 9718,
+		"timestamp" : "2021-11-29 08:11:49",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "3e151f0601cda91767b6fb7094ff78f6fb61a313",
+		"utterance_id" : 9719,
+		"timestamp" : "2021-11-29 08:12:06",
+		"intent" : "confirm_yes",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "f4be5ef470ae4d146d38bb3cfacde94bd29a6997",
+		"utterance_id" : 9720,
+		"timestamp" : "2021-11-29 09:14:56",
+		"intent" : "order",
+		"confidence" : 0.84
+	},
+	{
+		"sender_id" : "f4be5ef470ae4d146d38bb3cfacde94bd29a6997",
+		"utterance_id" : 9721,
+		"timestamp" : "2021-11-29 09:15:07",
+		"intent" : "set_address",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "f4be5ef470ae4d146d38bb3cfacde94bd29a6997",
+		"utterance_id" : 9722,
+		"timestamp" : "2021-11-29 09:15:26",
+		"intent" : "set_address",
+		"confidence" : 0.83
+	},
+	{
+		"sender_id" : "f4be5ef470ae4d146d38bb3cfacde94bd29a6997",
+		"utterance_id" : 9723,
+		"timestamp" : "2021-11-29 09:15:37",
+		"intent" : "confirm_yes",
+		"confidence" : 0.69
+	},
+	{
+		"sender_id" : "f4be5ef470ae4d146d38bb3cfacde94bd29a6997",
+		"utterance_id" : 9724,
+		"timestamp" : "2021-11-29 09:15:44",
+		"intent" : "set_name",
+		"confidence" : 0.63
+	},
+	{
+		"sender_id" : "6c81d3837b15a2bc653ab1898c39ec9026afdac9",
+		"utterance_id" : 9725,
+		"timestamp" : "2021-11-29 10:11:08",
+		"intent" : "confirm_yes",
+		"confidence" : 0.55
+	},
+	{
+		"sender_id" : "6c81d3837b15a2bc653ab1898c39ec9026afdac9",
+		"utterance_id" : 9726,
+		"timestamp" : "2021-11-29 10:11:16",
+		"intent" : "order",
+		"confidence" : 0.97
+	},
+	{
+		"sender_id" : "6c81d3837b15a2bc653ab1898c39ec9026afdac9",
+		"utterance_id" : 9727,
+		"timestamp" : "2021-11-29 10:11:25",
+		"intent" : "set_address",
+		"confidence" : 0.96
+	},
+	{
+		"sender_id" : "6c81d3837b15a2bc653ab1898c39ec9026afdac9",
+		"utterance_id" : 9728,
+		"timestamp" : "2021-11-29 10:11:39",
+		"intent" : "set_time",
+		"confidence" : 0.98
+	},
+	{
+		"sender_id" : "8af153b53890afed9bc82b4e8710cd401715c7e1",
+		"utterance_id" : 9729,
+		"timestamp" : "2021-11-29 10:29:33",
+		"intent" : "order",
+		"confidence" : 0.90
 	}
 ]
