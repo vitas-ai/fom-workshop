@@ -22,7 +22,7 @@ Entry for every call:
 * **sender_id**: UID for every call
 * **timestamp**: datetime for the beginning of the call
 * **duration**: in seconds
-* **call_steps**: one step = one utterance per user
+* **call_steps**: one step = one utterance said by the user
 * **call_type**: what type of call was it (possible options: CALL, DIRECT_ORDER, DTMF_ORDER, EARLY_ABORT, FORWARD)
 * **reason**: reason why the call was forwarded (possible options: BLOCKED, FALLBACK, NO_NUMBER, NUMBER_CHANGE, USER)
 * **user**: is this user/caller known? (True/False)
