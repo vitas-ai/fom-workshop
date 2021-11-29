@@ -8,16 +8,16 @@ VITAS repo for the workshop with fom students, 29.11.2021
 
 **Alex Gaus** [ag@vitas.ai](mailto:ag@vitas.ai)
 
-## dDta
+## Data
 The information about VITAS-Calls is available in 3 formats:
 * **json** (`data/json`) can be opened in Jupyter Notebooks, more information below
 * **csv** (`data/csv`) comma seperated values can be viewed with programs such as MS Excel or web applications such as Google Spreadsheet 
 * **sqlite-db** (`data/db`)
 sqlite files can be opened with online tools such as [sqliteonline](https://sqliteonline.com/) or with programs such as [sqlitebrowser](https://sqliteonline.com/)
 
-## data tables
+## Data tables
 There are 2 tables:
-### calls
+### Calls
 Entry for every call:
 * **sender_id**: UID for every call
 * **timestamp**: datetime for the beginning of the call
@@ -37,7 +37,7 @@ Entry for every call:
 * **name**: did the user give her/his name (True, False)
 * **datetime**: for what time did the user order the taxi (can be empty, '*sofort*', or datetime)
 
-### utterances
+### Utterances
 Found intents for every utterence in a call,
 1 to n relationship, one call can have 0, 1 or n utterances
 * **sender_id** matches sender_id from calls
