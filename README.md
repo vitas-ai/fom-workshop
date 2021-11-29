@@ -1,5 +1,6 @@
 # fom-workshop
-VITAS repository for the workshop for fom students, 29.11.2021
+![vitas-logo](logo.png)
+VITAS repo for the workshop with fom students, 29.11.2021
 
 **Contact**: [VITAS.ai](www.vitas.ai)
 
@@ -7,15 +8,15 @@ VITAS repository for the workshop for fom students, 29.11.2021
 
 **Alex Gaus** [ag@vitas.ai](mailto:ag@vitas.ai)
 
-## data
-The information about the VITAS-Calls is available in 3 formats:
+## dDta
+The information about VITAS-Calls is available in 3 formats:
 * **json** (`data/json`) can be opened in Jupyter Notebooks, more information below
 * **csv** (`data/csv`) comma seperated values can be viewed with programs such as MS Excel or web applications such as Google Spreadsheet 
 * **sqlite-db** (`data/db`)
 sqlite files can be opened with online tools such as [sqliteonline](https://sqliteonline.com/) or with programs such as [sqlitebrowser](https://sqliteonline.com/)
 
 ## data tables
-The data contains for two tables:
+There are 2 tables:
 ### calls
 Entry for every call:
 * **sender_id**: UID for every call
@@ -34,7 +35,7 @@ Entry for every call:
 * **street**: did the user give a street (True, False)
 * **city**: did the user give city (True, False)
 * **name**: did the user give her/his name (True, False)
-* **datetime**: for what time did the user order the taxi (can be empty, *sofort*, or datetime)
+* **datetime**: for what time did the user order the taxi (can be empty, '*sofort*', or datetime)
 
 ### utterances
 Found intents for every utterence in a call,
@@ -46,7 +47,7 @@ Found intents for every utterence in a call,
 * **confidence** confidence value, between 0-1
 
 ## Jupyter Notebook
-There is already one Jupyter notebook example file.
+There is already one Jupyter notebook example file [data.ipynb].
 ### Installing requirements
 ```zsh
 pip install -r requirements.txt
